@@ -6,7 +6,7 @@ Sanitized red team assessment reports and portfolio case studies focused on adve
 
 | Assessment | Description |
 |---|---|
-| [EvilCorp Red Team Assessment](./EvilCorp-Red-Team-Assessment.md) | External-to-internal red team case study demonstrating initial access, credential exposure, Active Directory privilege escalation, and domain compromise. |
+| [EvilCorp Red Team Assessment](./EvilCorp-Red-Team-Assessment.pdf) | External-to-internal red team case study demonstrating initial access, credential exposure, Active Directory privilege escalation, and domain compromise. |
 
 ## Focus Areas
 
